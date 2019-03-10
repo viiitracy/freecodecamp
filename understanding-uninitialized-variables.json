@@ -1,1 +1,0 @@
-{"index.js":"// Initialize these three variables\nvar a;\nvar b;\nvar c;\n\n// Do not change code below this line\n\na = a + 1;\nb = b + 5;\nc = c + \" String!\";\na=6;\nb=15;\nc=\"I am a String!\";"}
